@@ -1,1 +1,2 @@
-to jest zmiana na masterze.
+
+To jest zmiana na NewFeatures.
